@@ -27,6 +27,5 @@ What are user stories? :
 
 ** Card ** : A common template format for this is to specify a class of user (the user role), what that class of user wants to achieve (the goal), and why the users want to achieve the goal. The "so that" part is optional but in general should be included. Example:
 
-As a typical user I want to see unbiasedreviews of a restaurant near an addressso that I can decide where to go fordinner.Find Reviews Near AddressAs a <user role> I want to <goal> sothat <benefit>.User Story TitleTemplateFIG URE 5.2 A user story template and card
-
-
+> As a typical user I want to see unbiased reviews of a restaurant near an address so that I can decide where to go for dinner.
+{ .is-info }
