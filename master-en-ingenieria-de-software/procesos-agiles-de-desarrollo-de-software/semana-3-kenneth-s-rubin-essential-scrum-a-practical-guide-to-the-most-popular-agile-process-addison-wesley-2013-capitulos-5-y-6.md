@@ -19,5 +19,7 @@ In scrum, we leverage conversations as a key tool for ensuring that requirements
 > In Scrum we use a a strategy of **progressive refinement** to dissagregate, in a just-in-time fashion, large, lightly detailed requirements into a set of smaller, more detailed items.
 { .is-info }
 
+User stories are format for expressing the desired business value for many types of product backlog items, especially features, that are understable to both business and technical people.
+
 
 
