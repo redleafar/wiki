@@ -16,5 +16,8 @@ In scrum, we leverage conversartion as a key tool for ensuring that requirements
 
 > The product backlog is a "living document"
 
+> In Scrum we use a a strategy of **progressive refinement** to dissagregate, in a just-in-time fashion, large, lightly detailed requirements into a set of smaller, more detailed items.
+{ .is-info }
+
 
 
