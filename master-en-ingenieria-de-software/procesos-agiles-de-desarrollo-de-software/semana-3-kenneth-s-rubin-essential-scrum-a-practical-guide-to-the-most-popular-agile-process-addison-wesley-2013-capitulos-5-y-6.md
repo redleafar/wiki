@@ -6,3 +6,5 @@
 
 Scrum views requirements as an important degree of freedom. 
 
+In Scrum instead of compiling a larga inventory of detailed requirements up front, we create placeholders for the requirements, called <b>product backlog items</b> 
+
