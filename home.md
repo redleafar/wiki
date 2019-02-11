@@ -1,4 +1,4 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: Repositorio de notas de programación y Maestría en Ingeniería de Software -->
+<!-- SUBTITLE: Repositorio de notas de programación -->
 
-# Repositorio personal de notas y Maestría en Ingeniería de Software
+# Repositorio personal de notas de programación
