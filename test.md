@@ -1,15 +1,5 @@
-<!-- TITLE: Test -->
+<!-- TITLE: Procesos ágiles de desarrollo de software -->
 <!-- SUBTITLE: A quick summary of Test -->
 
-# Header
+# Procesos ágiles de desarrollo de software
 
-<a href="http://localhost:8000/test-2#header">test2</a>
-
-
-
-
------
-
-
-
-test
