@@ -21,5 +21,8 @@ The product backlog is a "living document"
 
 > User stories are a format for expressing the desired business value for many types of product backlog items, especially features, that are understable to both business and technical people.
 
+What are user stories? :
 
+> Can be described as the 3 Cs card, conversation and confirmation.
+> 
 
