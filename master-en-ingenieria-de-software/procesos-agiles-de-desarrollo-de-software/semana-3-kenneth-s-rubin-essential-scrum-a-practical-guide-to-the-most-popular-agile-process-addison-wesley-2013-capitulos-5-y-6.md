@@ -8,3 +8,5 @@ Scrum views requirements as an important degree of freedom.
 
 In Scrum instead of compiling a large inventory of detailed requirements up front, we create placeholders for the requirements, called **product backlog items** (PBIs)
 
+Initially the product backlog items are large and with little detail but over time they become smaller and more detailed.
+
