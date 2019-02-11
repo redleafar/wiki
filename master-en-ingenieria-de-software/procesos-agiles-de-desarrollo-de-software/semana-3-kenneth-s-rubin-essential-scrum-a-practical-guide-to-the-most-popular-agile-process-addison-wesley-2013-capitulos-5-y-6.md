@@ -29,3 +29,5 @@ What are user stories? :
 
 > As a typical user I want to see unbiased reviews of a restaurant near an address so that I can decide where to go for dinner.
 { .is-info }
+
+**Conversation** : The details of a requirement are exposed and communicated in a conversation among the  development  team,  product  owner,  and  stakeholders.  The  user  story  is  simply  a promise to have that conversation. The  conversation  is  typically  not  a one-time event, but rather an ongoing dialogue.
