@@ -14,5 +14,7 @@ Initially the product backlog items are large and with little detail but over ti
 
 In scrum, we leverage conversartion as a key tool for ensuring that requirements are properly discussed and communicated.
 
+> The product backlog is a "living document"
+
 
 
