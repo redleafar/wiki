@@ -12,4 +12,7 @@ Initially the product backlog items are large and with little detail but over ti
 
 > Scrum doesn't specify any standard format for these product backlog items but many teams represent PBIs as user stories.
 
+In scrum, we leverage conversartion as a key tool for ensuring that requirements are properly discussed and communicated.
+
+
 
