@@ -10,6 +10,6 @@ In Scrum instead of compiling a large inventory of detailed requirements up fron
 
 Initially the product backlog items are large and with little detail but over time they become smaller and more detailed.
 
-Scrum doesn't specify any standard format for these product backlog items but many teams represent PBIs as user stories.
+> Scrum doesn't specify any standard format for these product backlog items but many teams represent PBIs as user stories.
 
 
