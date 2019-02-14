@@ -62,4 +62,13 @@ Cono de incertidumbre
 ![110115 Contratos Agiles 30 728](/uploads/110115-contratos-agiles-30-728.jpg "110115 Contratos Agiles 30 728")
 > Con poca información la probabilidad de desviaciones de lo que realmente se quiere es muy alta
 
-Una historia de usuario es una definición de un requerimiento, se expresa en Scrum en un template de frase: As a (user role) I want to (goal) so that (benefit). Cuando se define una historia de usuaro también hay que definir las condiciones de satisfacción de la historia: confirmación, como verificar y como probar∫
+Una historia de usuario es una definición de un requerimiento, se expresa en Scrum en un template de frase: As a (user role) I want to (goal) so that (benefit). Cuando se define una historia de usuario también hay que definir las condiciones de satisfacción de la historia: confirmación, como verificar y como probar.
+
+**Características de historias de usuario (INVEST)**
+
+(I)ndependiente : Que no tenga ninguna dependencia inherente de otra
+(N)egociable: Hasta que sea parte de un sprint se pueden modificar y reescribir
+(V)aliosa: Debe generar valor al usuario final.
+(E)stimable: Se puede estimar, tiene un tamaño entre 0 y 8 puntos de historia de usuario.
+(S)mall (pequeña): Tiene un tamaño apropiado que permite planear/dividir tareas y estimar con cierto nivel de confianza.
+(T)estable (se puede probar): La descripción provee la suficiente información para definir y realizar pruebas.
