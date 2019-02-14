@@ -59,6 +59,4 @@ Se reduce la probabilidad de conversar para aclarar los requerimientos
  
 Cono de incertidumbre
 
-
-
-Minuto 14
+![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming")
