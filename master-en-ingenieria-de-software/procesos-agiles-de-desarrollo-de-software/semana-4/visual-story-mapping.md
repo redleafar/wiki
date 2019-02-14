@@ -72,3 +72,5 @@ Una historia de usuario es una definición de un requerimiento, se expresa en Sc
 (E)stimable: Se puede estimar, tiene un tamaño entre 0 y 8 puntos de historia de usuario.
 (S)mall (pequeña): Tiene un tamaño apropiado que permite planear/dividir tareas y estimar con cierto nivel de confianza.
 (T)estable (se puede probar): La descripción provee la suficiente información para definir y realizar pruebas.
+
+
