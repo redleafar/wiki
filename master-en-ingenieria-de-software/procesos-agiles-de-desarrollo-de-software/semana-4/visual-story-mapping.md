@@ -3,7 +3,7 @@
 
 # Visual Story Mapping
 
-Definición del alcance: ¿Cómo se define el alcance? Con los requerimientos
+* Definición del alcance: ¿Cómo se define el alcance? Con los requerimientos
 
 Los requerimientos facilitan un entendimiento común entre todo el equipo y stakeholders de lo que necesita ser construido en un producto de software 
 
@@ -28,7 +28,7 @@ Los cambios son bienvenidos
 
 
 
-**Visual story map**
+* **Visual story map**
 
 A través de conversaciones con los stakeholders y el product owner se define una visión de proyecto detallada en función de lo que los usuarios necesitan
 
