@@ -46,6 +46,8 @@ Son entendibles por el usuario y por el técnico
 
 ![1 1 2](/uploads/1-1-2.jpg "1 1 2")
 
+![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming")
+
 Como se vé hay historias de usuario de diferente nivel 
 
 Cuando se detallan las historias de usuario al comienzo se tienen desventajas como:
