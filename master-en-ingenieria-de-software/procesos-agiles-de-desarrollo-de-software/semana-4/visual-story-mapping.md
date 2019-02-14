@@ -46,7 +46,7 @@ Son entendibles por el usuario y por el técnico
 
 ![1 1 2](/uploads/1-1-2.jpg "1 1 2")
 
-![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming" )
+![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming" ){ width=50% }
 
 Como se vé hay historias de usuario de diferente nivel 
 
