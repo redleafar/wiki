@@ -44,7 +44,7 @@ La herramienta clave para definirlas y precisarlas son las conversaciones perman
 Son documentos vivos 
 Son entendibles por el usuario y por el técnico
 
-![1 1 2](/uploads/1-1-2.jpg "1 1 2")
+![1 1 2](/uploads/1-1-2.jpg "1 1 2"){ width=50% }
 
 ![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming" ){ width=50% }
 
@@ -59,7 +59,7 @@ Se reduce la probabilidad de conversar para aclarar los requerimientos
  
 Cono de incertidumbre
 
-![110115 Contratos Agiles 30 728](/uploads/110115-contratos-agiles-30-728.jpg "110115 Contratos Agiles 30 728")
+![110115 Contratos Agiles 30 728](/uploads/110115-contratos-agiles-30-728.jpg "110115 Contratos Agiles 30 728"){ width=50% }
 > Con poca información la probabilidad de desviaciones de lo que realmente se quiere es muy alta
 
 Una historia de usuario es una definición de un requerimiento, se expresa en Scrum en un template de frase: As a (user role) I want to (goal) so that (benefit). Cuando se define una historia de usuario también hay que definir las condiciones de satisfacción de la historia: confirmación, como verificar y como probar.
@@ -76,4 +76,4 @@ Una historia de usuario es una definición de un requerimiento, se expresa en Sc
 
 Formato que se usa cuando se llega a más precisión por ejemplo (incluso hasta con mockup de la interfaz):
 
-![Imagen](/uploads/imagen.png "Imagen")
+![Imagen](/uploads/imagen.png "Imagen"){ width=50% }
