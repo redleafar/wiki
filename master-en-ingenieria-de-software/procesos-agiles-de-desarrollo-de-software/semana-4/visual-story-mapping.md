@@ -24,7 +24,7 @@ Se espera que los detalles cambien a medida que se progresa en el desarrollo
 Los cambios son bienvenidos
 
 
-Visual story map
+**Visual story map**
 
 A través de conversaciones con los stakeholders y el product owner se define una visión de proyecto detallada en función de lo que los usuarios necesitan
 
@@ -36,7 +36,7 @@ Al final se organiza en función de las prioridades de los stakeholders,establec
 
 El listado de funcionalidades se pasa a historias de usuario, de forma incremental . Product backlog item al comienzo = historia de usuario pueden ser del visual story map , al pasar el tiempo se detalla cuando se acerca su posibilidad de desarrollo, es decir que sigue de primero en la pila del product backlog , entre más arriba un item está más detallado debe estar.
 
-Las historias de usuario
+**Las historias de usuario**
 
 Son ítems que le agregan valor a negocio
 Son una representación de un requerimiento de software escrito en una o dos frases utilizando el lenguaje común del usuario
