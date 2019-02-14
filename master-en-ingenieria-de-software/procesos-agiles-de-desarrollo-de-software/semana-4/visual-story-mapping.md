@@ -44,6 +44,8 @@ La herramienta clave para definirlas y precisarlas son las conversaciones perman
 Son documentos vivos 
 Son entendibles por el usuario y por el técnico
 
+![1 1 2](/uploads/1-1-2.jpg "1 1 2")
+
 Como se vé hay historias de usuario de diferente nivel 
 
 Cuando se detallan las historias de usuario al comienzo se tienen desventajas como:
