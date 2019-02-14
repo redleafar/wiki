@@ -60,3 +60,5 @@ Se reduce la probabilidad de conversar para aclarar los requerimientos
 Cono de incertidumbre
 
 ![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming")
+
+Con poca información la probabilidad de desviaciones de lo que realmente se quiere es muy alta
