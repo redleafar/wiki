@@ -40,6 +40,12 @@ Al final se organiza en función de las prioridades de los stakeholders,establec
 
 El listado de funcionalidades se pasa a historias de usuario, de forma incremental . Product backlog item al comienzo = historia de usuario pueden ser del visual story map , al pasar el tiempo se detalla cuando se acerca su posibilidad de desarrollo, es decir que sigue de primero en la pila del product backlog , entre más arriba un item está más detallado debe estar.
 
+
+
+-----
+
+
+
 **Las historias de usuario**
 
 Son ítems que le agregan valor a negocio
