@@ -59,6 +59,5 @@ Se reduce la probabilidad de conversar para aclarar los requerimientos
  
 Cono de incertidumbre
 
-![Product Backlog Grooming](/uploads/product-backlog-grooming.jpg "Product Backlog Grooming")
-
+![110115 Contratos Agiles 30 728](/uploads/110115-contratos-agiles-30-728.jpg "110115 Contratos Agiles 30 728")
 > Con poca información la probabilidad de desviaciones de lo que realmente se quiere es muy alta
