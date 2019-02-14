@@ -76,4 +76,4 @@ Una historia de usuario es una definición de un requerimiento, se expresa en Sc
 
 Formato que se usa:
 
-
+![Imagen](/uploads/imagen.png "Imagen")
