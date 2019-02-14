@@ -24,6 +24,10 @@ Se espera que los detalles cambien a medida que se progresa en el desarrollo
 Los cambios son bienvenidos
 
 
+-----
+
+
+
 **Visual story map**
 
 A través de conversaciones con los stakeholders y el product owner se define una visión de proyecto detallada en función de lo que los usuarios necesitan
