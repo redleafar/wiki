@@ -77,3 +77,5 @@ Una historia de usuario es una definición de un requerimiento, se expresa en Sc
 Formato que se usa cuando se llega a más precisión por ejemplo (incluso hasta con mockup de la interfaz):
 
 ![Imagen](/uploads/imagen.png "Imagen"){ width=50% }
+
+min 20:30
