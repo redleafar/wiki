@@ -3,10 +3,6 @@
 
 # Video: Thinking about Quoins: Strategic Traceability of Architecturally Significant Requirements
 
-
-
-Video: Thinking about Quoins: Strategic Traceability of Architecturally Significant Requirements
-
 Architectural degradation: Happens when the architecture gradually and persistently drifts from the original design. 
 
 Traceability helps to identify and monitor the critical sensitivity points of this design so that maintaining don’t inadvertently degrade system qualities
